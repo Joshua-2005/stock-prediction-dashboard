@@ -64,12 +64,17 @@ The application integrates real-time financial data, technical indicators, and i
 ---
 
 ## 📂 Project Structure
+
 stock-prediction-dashboard/
-│
+
 ├── app.py # Streamlit web application
+
 ├── train_model.py # Model training script
+
 ├── model.pkl # Trained machine learning model
+
 ├── requirements.txt # Dependencies for deployment
+
 └── README.md # Project documentation
 
 
